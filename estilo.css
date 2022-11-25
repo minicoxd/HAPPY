@@ -1,0 +1,19 @@
+
+
+.contenedor{
+	background-color:white;
+	height: 100vh;
+	margin: 10%;
+	display: flex;
+	justify-content: center;
+	align-items:right;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 15px;
+
+	}
+
+
+
+} 
+.nav__responsive-ul{
+	display: none;
